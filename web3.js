@@ -4,7 +4,7 @@ function oddishOrEvenish(number) {
     let strNumber = number.toString()
     let array = strNumber.split("")
 
-    for (let i = 0; i < arr.length; i++) {
+    for (let i = 0; i < array.length; i++) {
         intArray.push(parseInt(array[i]))
     }
 
